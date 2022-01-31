@@ -1,0 +1,11 @@
+/* You can customize theme styles here */
+
+#portfolio{
+  
+  .section {
+    position: relative;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    }
+
+}
