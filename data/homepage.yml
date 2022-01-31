@@ -175,7 +175,7 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Sales Demand Forecast Application"
+    - title: "Growth Forecast Application"
       description: "This application helps managers and businesses plan ahead and identify key elements that affect their growth, as well as having a high level view of their business and predict future growth based on past performance." # I didn't build this tool to sell it or market it, it in fact was made as a personal project I had been looking to build for quite a while, I built it because this is the tool I wish I had when I started my first business.
       button:
         icon: "icon-arrow-right"
@@ -186,7 +186,7 @@ client_and_work:
         _2x: "img/works/Plan-de-Crecimiento-Screenshot.png"
       is_even: true
 
-    - title: "Product Price Recommendation"
+    - title: "Enterprise Dashboard"
       description: "This application helps Marketing & Sales Teams track and follow campaign and sales performance across many regions and different categories and filters."
       button:
         icon: "icon-arrow-right"
