@@ -1,0 +1,270 @@
+head:
+  title: "Alejandro's Shiny Apps Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hi, I’m Alejandro Fermin."
+  subtitle: "Dashboard Developer with R Shiny"
+  description: "I build <strong>decision-making tools</strong> to provide managers and executives analytical insights to make well-informed decisions."
+  image:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+  imageMobile:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Ale"
+    URL: "mailto:alejanfermin@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/alejandrofermin/"
+
+    - icon: "github"
+      URL: "https://github.com/alefermin"
+
+    - icon: "twitter"
+      URL: "https://twitter.com"
+
+    - icon: "dribbble"
+      URL: "https://dribbble.com"
+
+    - icon: "behance"
+      URL: "https://www.behance.net"
+
+    - icon: "youtube"
+      URL: "https://www.youtube.com"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com"
+
+    - icon: "codepen"
+      URL: "#"
+
+    - icon: "yelp"
+      URL: "https://www.yelp.com/"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>I love business.</strong> My passion is improving and optimizing every area in business that I can think of, and I love to do it through numbers, doing analysis.  
+    But, when I am not doing some analysis or optimizing and automating something,
+    I really find joy in reading about philosophy, spirituality, and traveling.
+    </p>
+    <p class="lead">
+    <strong>My area of focus</strong> is applying statistics and data to business. 
+    I create value for companies by understanding the financial and opportunity
+    cost of problems and delivering a tangible return-on-investment with my solutions. 
+    I enjoy learning, My obsession is business growth. I love studying, trying and experimenting 
+    new things. I am the person that is going to think and try many things trying to find what I need.
+    </p>
+    <p class="lead">
+    There is a single thing that might be the most important thing of all, making right decisions.
+    There's a saying "You cannot improve what you cannot measure". In other words, you cannot 
+    change what you don't know you have to improve. You don't know what you don't know. Providing
+    this knowledge and understanding has become my main goal in developing these customized tools, and I do it
+    by taking into account, down to the last possible detail, every possible data point we can collect, measure, analyze and execute.
+    </p>
+    <p class="lead">
+    I believe that data and science (no pun intended), and following a rigurous scientific method
+    are fundamental to achive all this, and of course, on top of leadership, vision, innovation, honesty, truth-seeking and a strong will.
+    If you and your company have a strong will, I will provide my best to help you achive it.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com"
+  image:
+    x: "img/who-am-i/temporary.png"
+    _2x: "img/who-am-i/temporary.png"
+
+# experience
+experience:
+  enable: true
+  title: "Experience & Awards"
+  description: "Over 6+ years of experience working in entrepeneurial ventures and  a software company. I design & develop analytics and data products to help businesses increase profitability and optimize processes."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/alejandrofermin/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "/cv/curriculum.pdf"
+
+  items:
+    - title: "Analyst"
+      company: "Voolkia Software & Services"
+      duration: "Dec 2019 - Present"
+      
+    - title: "Dashboard Builder & Marketing Consulting"
+      company: "Analytics & Marketing Services"
+      duration: "Sep 2018 - Present"
+      
+    - title: "Manager - Founder"
+      company: "MasterWin"
+      duration: "Jul 2015 - Mar 2018"
+      
+    - title: "Volunteer"
+      company: "Jóvenes en Acción - ONG"
+      duration: "Feb 2017 - Present"
+      
+    - title: "1st Place - Customer Experience"
+      company: "Hack The World: Hackathon – Cervecería Patagonia, AB InBev"
+      duration: "April 2017"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Simon Bolivar University"
+      year: "2012-2015"
+      degree: "Completed 90 credits towards Mechanical Engineering"
+
+    - university: "Eisenhower Highschool - Michigan"
+      year: "2011-2012"
+      degree: "Senior Year as Exchange Student"
+
+
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Sales Demand Forecast Application"
+      description: "This application helps managers and businesses plan ahead and identify key elements that affect their growth, as well as having a high level view of their business and predict future growth based on past performance." # I didn't build this tool to sell it or market it, it in fact was made as a personal project I had been looking to build for quite a while, I built it because this is the tool I wish I had when I started my first business.
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://alejandrofermin.shinyapps.io/PlanDeCrecimiento/"
+      image:
+        x: "img/works/Plan-de-Crecimiento-Screenshot.png"
+        _2x: "img/works/Plan-de-Crecimiento-Screenshot.png"
+      is_even: true
+
+    - title: "Product Price Recommendation"
+      description: "This application helps Marketing & Sales Teams track and follow campaign and sales performance across many regions and different categories and filters."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://alejandrofermin.shinyapps.io/ShinyDashboard/"
+      image:
+        x: "img/works/Shiny-Dashboard-Screenshot.png"
+        _2x: "img/works/Shiny-Dashboard-Screenshot.png"
+      is_even: false
+    
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+  
+    - name: "Justin Kurland, PhD"
+      position: "Lead Data Scientist, Northwestern Mutual"
+      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+      image:
+        x: "img/testimonials/justin.jpg"
+        _2x: "img/testimonials/justin.jpg"
+        
+    - name: "Chris Selig"
+      position: "Data Scientist"
+      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+      image:
+        x: "img/testimonials/chris.jpg"
+        _2x: "img/testimonials/chris.jpg"
+
+    
+
+    - name: "Mohana Krishna Chittoor"
+      position: "Lead Data Scientist, Money View"
+      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+      image:
+        x: "img/testimonials/mohana.jpg"
+        _2x: "img/testimonials/mohana.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact Alejandro"
+    
+  image:
+    x: "img/who-am-i/temporary.png"
+    _2x: "img/who-am-i/user-picture-2.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:alejanfermin@gmail.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "+54 11 3278-1616"
+  email:
+    title: "Email"
+    email: '<a href="mailto:alejanfermin@gmail.com">alejanfermin@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "Buenos Aires, Argentina"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
+  
+
+# skills
+skills:
+  enable: true
+  title: "My Skills"
+  image:
+    x: "img/skills/skills.png"
+   
