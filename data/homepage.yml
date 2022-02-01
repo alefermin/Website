@@ -66,8 +66,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com"
   image:
-    x: "img/who-am-i/temporary.png"
-    _2x: "img/who-am-i/temporary.png"
+    x: "img/who-am-i/new.jpg"
+    _2x: "img/who-am-i/new.jpg"
 
 # experience
 experience:
@@ -215,8 +215,8 @@ contact:
   title: "Contact Alejandro"
     
   image:
-    x: "img/who-am-i/temporary.png"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/who-am-i/new-resized.jpg"
+    _2x: "img/who-am-i/new-resized.jpg"
     
   button:
     icon: "icon-mail-fill"
