@@ -38,15 +38,10 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I love business.</strong> My passion is improving and optimizing every area in business that I can think of, and I love to do it through numbers, doing analysis.  
-    But, when I am not doing some analysis or optimizing and automating something,
-    I really find joy in reading about philosophy, spirituality, and traveling.
-    </p>
-    <p class="lead">
     <strong>My area of focus</strong> is applying statistics and data to business. 
     I create value for companies by understanding the financial and opportunity
     cost of problems and delivering a tangible return-on-investment with my solutions. 
-    I enjoy learning, My obsession is business growth. I love studying, trying and experimenting 
+    I enjoy learning and my obsession is business growth. I love studying, trying and experimenting 
     new things. I am the person that is going to think and try many things trying to find what I need.
     </p>
     <p class="lead">
@@ -55,6 +50,11 @@ about:
     change what you don't know you have to improve. You don't know what you don't know. Providing
     this knowledge and understanding has become my main goal in developing these customized tools, and I do it
     by taking into account, down to the last possible detail, every possible data point we can collect, measure, analyze and execute.
+    </p>
+    <p class="lead">
+    <strong>I love business.</strong> My passion is improving and optimizing every area in business that I can think of, and I love to do it through numbers, doing analysis.  
+    But, when I am not doing some analysis or optimizing and automating something,
+    I really find joy in reading about philosophy, spirituality, and traveling.
     </p>
     <p class="lead">
     I believe that data and science (no pun intended), and following a rigurous scientific method
